@@ -108,4 +108,4 @@ You can do this in Firefox by following these steps:
 #### Does Rackspace Webmail Chat require a certain port on the firewall to be open?
 
 Yes. Webmail Chat uses port 5291. This port must be open on your network
-for Webmail Chat to function properly.
+for Webmail Chat to function properly. 
